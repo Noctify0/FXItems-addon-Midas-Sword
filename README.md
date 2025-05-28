@@ -3,4 +3,4 @@
 A resource pack will be provided in the zip
 
 Dependency:
-https://github.com/Noctify0/FXItems-addon-Midas-Sword.git
+(https://www.spigotmc.org/resources/fxitems.125469/)
