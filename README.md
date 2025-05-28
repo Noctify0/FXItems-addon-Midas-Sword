@@ -1,6 +1,5 @@
-## This is an addon for FXItems. Just install it alongside FXItems
+## This is an addon for FXItems.
 
 A resource pack will be provided in the zip
-
-Dependency:
-(https://www.spigotmc.org/resources/fxitems.125469/)
+Do not download FXItems from Spigot as a dependency. 
+A slightly modified version of FXItems will be provided in the zip.
